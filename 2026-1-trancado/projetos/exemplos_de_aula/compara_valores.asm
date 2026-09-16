@@ -1,7 +1,7 @@
 .data
 	msg_requisito:	.asciz "Escreva um numero "
 	msg_confirma: 	.asciz "Numero igual "
-	msg_erro: 		.asciz "Numeros diferentes "
+	msg_erro:	.asciz "Numeros diferentes "
 	pula_linha: 	.asciz "\n"
 .text
 
